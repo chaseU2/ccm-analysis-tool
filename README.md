@@ -30,3 +30,12 @@ An interactive Streamlit web app for Convergent Cross Mapping (CCM) analysis of 
 ## 🌐 Live Demo
 This is a Streamlit app running on [Streamlit Cloud](https://ccmwebtool.streamlit.app/).
 [Click here to view the app!](https://ccmwebtool.streamlit.app/)
+
+
+## Dependencies and Acknowledgements
+
+Parts of this project are based on the Convergent Cross Mapping (CCM) implementation from the following repository:
+
+- [Convergent Cross Mapping GitHub Repository](https://github.com/PrinceJavier/causal_ccm.git)
+
+I have utilized parts of the CCM algorithm from this repository to help analyze causality in time series data in my own project.
