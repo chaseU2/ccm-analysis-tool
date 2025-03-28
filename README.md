@@ -34,11 +34,11 @@ This is a Streamlit app running on [Streamlit Cloud](https://ccmwebtool.streamli
 
 ## Test Data
 
-This project uses test data from the file [`ccm_test_data.txt`](./ccm_test_data.txt) for testing the implementation of the Convergent Cross Mapping (CCM) algorithm.
+This project uses test data from the file [`ccm_test_data.txt`](https://github.com/chaseU2/ccm-analysis-tool/blob/master/ccm_test_data.txt) for testing the implementation of the Convergent Cross Mapping (CCM) algorithm.
 
 ### User-Provided Data
 
-If you want to use your own data for testing or analysis, please ensure that your data file is in the **same format** as [`ccm_test_data.txt`](./ccm_test_data.txt). Importantly, **all missing values (NAs)** in the dataset **must be replaced with zeros** to ensure proper functionality of the algorithm.
+If you want to use your own data for testing or analysis, please ensure that your data file is in the **same format** as [`ccm_test_data.txt`](https://github.com/chaseU2/ccm-analysis-tool/blob/master/ccm_test_data.txt). Importantly, **all missing values (NAs)** in the dataset **must be replaced with zeros** to ensure proper functionality of the algorithm.
 
 You can upload your data file in the same format, with columns and rows matching the original data structure.
 
