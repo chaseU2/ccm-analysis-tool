@@ -32,6 +32,13 @@ This is a Streamlit app running on [Streamlit Cloud](https://ccmwebtool.streamli
 [Click here to view the app!](https://ccmwebtool.streamlit.app/)
 
 
+## Test Data
+
+This project uses test data from the file `ccm_test_data.txt` for testing the implementation of the Convergent Cross Mapping (CCM) algorithm.
+
+
+
+
 ## Dependencies and Acknowledgements
 
 Parts of this project are based on the Convergent Cross Mapping (CCM) implementation from the following repository from Prince Javier :
