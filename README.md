@@ -1,6 +1,6 @@
 # ccm-analysis-tool
 
-# 🌐 CCM Analysis Tool
+# 🌐 Convergent Cross Mapping (CCM) Analysis Tool
 
 An interactive Streamlit web app for Convergent Cross Mapping (CCM) analysis of time series data.
 
