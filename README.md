@@ -28,5 +28,5 @@ An interactive Streamlit web app for Convergent Cross Mapping (CCM) analysis of 
    ```
 
 ## 🌐 Live Demo
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/chaseU2/ccm-analysis-tool/app.py)
-*(Erfordert [Streamlit Sharing](https://streamlit.io/sharing))*
+[![Open in Streamlit](https://ccmwebtool.streamlit.app)
+*(Requires [Streamlit Sharing](https://streamlit.io/sharing))*
