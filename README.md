@@ -4,7 +4,6 @@
 
 An interactive Streamlit web app for Convergent Cross Mapping (CCM) analysis of time series data.
 
-![App Screenshot](docs/screenshot.png)
 
 ## 🚀 Quick Start
 
