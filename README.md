@@ -1,4 +1,4 @@
-# ccm-analysis-tool
+# CCM-Analysis Webtool
 
 # 🌐 Convergent Cross Mapping (CCM) Analysis Tool
 
