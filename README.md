@@ -2,7 +2,9 @@
 
 # 🌐 Convergent Cross Mapping (CCM) Analysis Tool
 
-An interactive Streamlit web app for Convergent Cross Mapping (CCM) analysis of time series data.
+An interactive Streamlit web app for Convergent Cross Mapping (CCM) as defined by ["Sugihara et al (2012)"](https://www.science.org/doi/10.1126/science.1227079).
+
+ 
 
 
 ## 🚀 Quick Start
